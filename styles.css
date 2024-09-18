@@ -7,14 +7,14 @@
 	content:"Before content";
 	color:#f00;
 	font-size:20px;
-	display:block;
+	/* display:block; */
 }
 
 #container::after{
 	content:"After content";
 	color:#f00;
 	font-size:20px;
-	display:block;
+	/* display:block; */
 }
 
 
